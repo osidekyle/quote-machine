@@ -1,0 +1,60 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
+body{
+    background-image: url("https://www.teahub.io/photos/full/302-3023885_professional-blue-website-background.png");
+}
+
+.title{
+    text-decoration: underline;
+    text-align:center;
+    font-family: "Raleway";
+    font-size: 70px;
+    margin-bottom:9%;
+    color:white;
+}
+
+
+.quote-container{
+    background:rgba(255,255,255);
+    width:40%;
+    margin:0 auto;
+    font-size:45px;
+    text-align:center;
+    padding-top:30px;
+    padding-bottom:30px;
+    border-radius:10px;
+    font-family:'Sacramento'
+}
+
+
+#quote-name{
+    margin:0;
+}
+
+#quote-text{
+    margin:0;
+    margin-bottom:30px;
+}
+
+.button-container{
+    margin:0 auto;
+    margin-top:11%;
+    width:30%;
+    text-align:center;
+}
+
+#button{
+    background:#274684;
+    color:white;
+    font-size:30px;
+    padding:20px 30px;
+    border-radius:15px;
+    border:none;
+    font-family: "Raleway";
+    transition:.5s ease
+}
+
+#button:hover{
+    letter-spacing: 2   px;
+}
